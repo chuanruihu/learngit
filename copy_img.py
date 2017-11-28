@@ -6,7 +6,7 @@ root = '/mnt/sdd1/mingzhang/qujing_vehicle_data/'
 inputlist = root + '2016-12-14_2017-08-29_new/distractor/query_f5000.list'
 
 dir0 = root +'2016-12-14_2017-08-29_new/distractor/query_f5000_imgs/'
-
+print "say hello"
 
 
 filetxt = open(inputlist,'r')
